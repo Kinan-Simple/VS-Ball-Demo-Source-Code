@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "room",
+		"player1": "bf",
+		"player2": "Ball_Confused",
+		"player3": null,
+		"events": [
+			[
+				9622.91666666667,
+				[
+					[
+						"HealthDrain",
+						"2.9",
+						"0.09"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Wasted"
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "room",
+		"player1": "bf",
+		"player2": "Ball",
+		"player3": null,
+		"events": [
+			[
+				26400,
+				[
+					[
+						"LinearSpin",
+						"9",
+						"1440"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 100,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "boing"
+	}
+}

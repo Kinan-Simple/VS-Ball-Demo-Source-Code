@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ball.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="127" height="219"/>
+	<SubTexture name="idle0000" x="127" y="0" width="127" height="125"/>
+	<SubTexture name="idle0001" x="254" y="0" width="127" height="67" frameX="0" frameY="-50" frameWidth="127" frameHeight="125"/>
+	<SubTexture name="idle0002" x="381" y="0" width="127" height="97" frameX="0" frameY="-24" frameWidth="127" frameHeight="125"/>
+	<SubTexture name="idle0003" x="381" y="0" width="127" height="97" frameX="0" frameY="-24" frameWidth="127" frameHeight="125"/>
+	<SubTexture name="left0000" x="508" y="0" width="202" height="125"/>
+	<SubTexture name="right0000" x="710" y="0" width="250" height="125"/>
+	<SubTexture name="up0000" x="0" y="219" width="127" height="280"/>
+</TextureAtlas>
